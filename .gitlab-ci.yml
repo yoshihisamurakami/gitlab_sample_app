@@ -30,7 +30,7 @@ before_script:
 
 rspec:
   script:
-    - rspec spec
+    - bundle exec rspec
 
 # rails:
 #   variables:
